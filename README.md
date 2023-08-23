@@ -1,5 +1,5 @@
 # Holocure-Single-Player-Pointer
-CT file for HoloCure in Cheat Engine. You can read the ##Tutorial
+Local Score HoloCure CT file for Cheat Engine.
 #### Ingame :
 + Exp
 + Ingame Coin
