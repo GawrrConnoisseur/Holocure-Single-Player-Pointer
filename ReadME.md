@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm GawrrConnoisseur</h1>
 <h3 align="center">A game developer who makes cheat for fun.</h3>
 
-(img align="right" alt="Coding" width="400" src="https://static.myfigurecollection.net/upload/pictures/2022/09/08/3247498.gif")
+img align="right" alt="Coding" width="400" src="https://static.myfigurecollection.net/upload/pictures/2022/09/08/3247498.gif"
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gawrrconnoisseur" alt="gawrrconnoisseur" /></a> </p>
 
